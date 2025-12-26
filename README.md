@@ -1,6 +1,6 @@
 # 🧙‍♂️ AETHER-HAND: Sanctum Intern Simulator
 ### *Real-time Hand Tracking & Particle Sorcery*
-<img width="1024" height="1024" alt="Gemini_Generated_Image_a0zogra0zogra0zo" src="https://github.com/user-attachments/assets/20ef0788-aeb7-4648-ad29-81da3cb0a2b4" />
+<img width="1024" height="862" alt="Gemini_Generated_Image_a0zogra0zogra0zo" src="https://github.com/user-attachments/assets/11ea279e-74c6-4ec5-883e-bc389d113ad7" />
 Welcome to **Aether-Hand**, a "funny business" project that turns your webcam into a gateway for the Mystic Arts. This isn't just a shiny demo—it’s a fusion of Computer Vision and high-performance WebGL rendering.
 
 ---
