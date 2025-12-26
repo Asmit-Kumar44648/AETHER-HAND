@@ -1,7 +1,7 @@
 # 🧙‍♂️ AETHER-HAND: Sanctum Intern Simulator
 ### *Real-time Hand Tracking & Particle Sorcery*
 
-http://googleusercontent.com/image_collection/image_retrieval/2585964358177184947
+![Aether Hand Banner](https://images.unsplash.com/photo-1635805737707-575885ab0820?q=80&w=1200&auto=format&fit=crop)
 
 Welcome to **Aether-Hand**, a "funny business" project that turns your webcam into a gateway for the Mystic Arts. This isn't just a shiny demo—it’s a fusion of Computer Vision and high-performance WebGL rendering.
 
@@ -14,6 +14,10 @@ While it looks like pure chaos, there's some heavy lifting happening under the h
 * **Particle Physics:** Over **65,000 active particles** computed every frame using **Three.js**.
 * **Thermal Shading:** Particles use a custom "Heat-Map" logic—glowing white-hot at the core and cooling to deep ember-red at the edges.
 * **Spectral Momentum:** Magic has "weight." The sigils use linear interpolation (lerp) to trail behind your hand movements with realistic inertia.
+
+---
+
+## Check the AETHER-HAND here https://asmit-kumar44648.github.io/AETHER-HAND/
 
 ---
 
@@ -42,12 +46,12 @@ This project is built to be lightweight and portable. No `npm install` or heavy 
 
 ## 💡 Pro-Tips for Sorcerers
 * **Lighting Matters:** The AI likes high-contrast lighting. Magic is easier to weave when it can see your fingers!
-* **Performance:** If your computer starts sounding like a jet engine, that's just the particles trying to break into the Mirror Dimension (or your GPU working hard).
+* **Performance:** If your computer starts sounding like a jet engine, that's just the particles trying to break into the Mirror Dimension.
 
 ---
 
 ## 📂 Project Credits
-* **Tech:** Three.js, MediaPipe, Google Generative AI
+* **Tech:** Three.js, MediaPipe
 * **Inspiration:** The Sanctum Sanctorum Library
 
 *Disclaimer: This project will not actually protect you from inter-dimensional threats. Use responsibly.*
