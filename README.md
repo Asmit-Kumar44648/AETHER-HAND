@@ -17,8 +17,7 @@ To invoke the magic, face your camera and try these:
 - **The Fist:** Time Loop (Emerald green geometric pulse).
 
 ## 🚀 Live Demo
-**[CLICK HERE TO VIEW THE MAGIC](https://YOUR-GITHUB-USERNAME.github.io/aether-hand/)**
-*(Note: Replace the link above with your actual GitHub Pages URL once deployed!)*
+**[CLICK HERE TO VIEW THE MAGIC](https://asmit-kumar44648.github.io/AETHER-HAND/)**
 
 ## 🛠️ Tech Stack
 - **Three.js:** For the shiny dots and 3D math.
